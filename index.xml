@@ -6,10 +6,19 @@
     <description>Recent content on Inkblotty</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 16 Jul 2019 22:42:19 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jul 2019 22:48:42 +0900</lastBuildDate>
     
 	<atom:link href="https://init-h.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Second</title>
+      <link>https://init-h.github.io/second/</link>
+      <pubDate>Tue, 16 Jul 2019 22:48:42 +0900</pubDate>
+      
+      <guid>https://init-h.github.io/second/</guid>
+      <description>This is second article!!</description>
+    </item>
     
     <item>
       <title>Helloworld</title>
